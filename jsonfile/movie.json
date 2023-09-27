@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "Judul": "The Raid Redemption",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/The_Raid_2011_poster.jpg",
+    "tahun": "2011",
+    "durasi": "101",
+    "rating": "3.5",
+    "Genre": "action",
+    "plot": "Rookie Mobile Brigade Corps officer Rama joins a 20-man squad led by Sergeant Jaka and Lieutenant Wahyu for a raid on an apartment block with the intent of arresting crime lord Tama Riyadi. Together with his lieutenants Andi and Mad Dog, Tama runs the block and allows criminals and addicts to rent rooms under his protection. Arriving undetected, the team sweeps the first floor and subdues various tenants; they also meet a law-abiding tenant named Gofar delivering medicine to his sick wife. Continuing to the sixth floor, the team is spotted by two young lookouts, one of whom raises the alarm after the other is shot."
+  },
+
+  {
+    "id": 1,
+    "Judul": "The Night Comes For Us",
+    "image": "https://cdnwpseller.gramedia.net/wp-content/uploads/2023/05/the-night-comes-for-us-691x1024.jpg",
+    "tahun": "2018",
+    "durasi": "120",
+    "rating": "4.8",
+    "Genre": "action",
+    "plot": "The Night Comes for Us adalah sebuah film thriller aksi Indonesia tahun 2018 yang ditulis dan disutradarai oleh Timo Tjahjanto . Awalnya disusun sebagai skenario dan kemudian diadaptasi menjadi novel grafis , sebelum akhirnya dirilis sebagai film. Pada bulan Desember 2014, Tjahjanto mengonfirmasi bahwa ia bekerja sama dengan pusat artis Indonesia , Glitch Network, untuk mengadaptasi skenario aslinya ke dalam bentuk komik. Film ini dibintangi oleh Iko Uwais , Joe Taslim , Julie Estelle , Sunny Pang, Zack Lee dan Shareefa Daanish. Dalam film tersebut, seorang mantan petugas penegak kejahatan (Taslim) berangkat untuk menyelamatkan seorang gadis muda dari sindikat kejahatan, yang kemudian mengirimkan prospek geng yang sedang meningkat (Uwais) dan legiun preman untuk melenyapkan petugas dan gadis muda tersebut."
+  },
+
+  {
+    "id": 2,
+    "Judul": "Buffalo Boys",
+    "image": "https://cdnwpseller.gramedia.net/wp-content/uploads/2023/05/buffalo-boys-movie-691x1024.jpg",
+    "tahun": "2018",
+    "durasi": "102",
+    "rating": "4.2",
+    "Genre": "action",
+    "plot": "Di Jawa pada abad ke-19, pembantaian brutal dan pembunuhan Sultan Hamzah oleh Kapten Van Trach dan tentara Belandanya memaksa Arana, Jamar, dan Suwo – saudara laki-laki sultan dan bayi laki-lakinya – meninggalkan negara tersebut, membawa mereka ke belahan dunia lain. ke Wild West Amerika. Setelah bekerja di perusahaan kereta api dan mempelajari cara hidup koboi, Arana memberi tahu anak-anak itu bahwa inilah waktunya untuk kembali ke tanah air dan membalas kematian ayah mereka."
+  },
+
+  {
+    "id": 3,
+    "Judul": "Satria Dewa: Gatotkaca",
+    "image": "https://cdnwpseller.gramedia.net/wp-content/uploads/2023/05/Satria-Dewa-Gatotkaca-717x1024.jpg",
+    "tahun": "2022",
+    "durasi": "129",
+    "rating": "5.0",
+    "Genre": "action",
+    "plot": "Dunia dalam cerita ini sedikit berbeda ada manusia -manusia yang memiliki kemampuan jauh di atas rata-rata, diam - diam hidup di antara kita. Ada yang cerdas luar biasa, kuat tak terkira, tak pernah mengalami sakit, pendengaran setajam kelelawar, dan lain-lain. Dunia yang juga begitu mencekam, karena teror pembunuh berantai."
+  },
+
+  {
+    "id": 4,
+    "Judul": "Serigala Terakhir",
+    "image": "https://cdnwpseller.gramedia.net/wp-content/uploads/2023/05/serigala-terakhir-movie.jpg",
+    "tahun": "2009",
+    "durasi": "140",
+    "rating": "3.8",
+    "Genre": "action",
+    "plot": "Di sebuah pinggiran kota Jakarta, terdapat sekelompok remaja laki-laki yang tumbuh dan menjalin persahabatan yang sangat kuat. Mereka adalah Ale (Al Fathir Muchtar), Jarot (Vino G. Bastian), Lukman (Dion Wiyoko), Sadat (Ali Syakieb) dan Jago (Dallas Pratama). Ale adalah sosok yang paling menonjol di antara mereka berlima. Jiwa kepemimpinannya sangat kentara sekali. Sementara Jarot adalah sosok yang paling tidak banyak berbicara dan tertutup."
+  }
+]

@@ -1,0 +1,6 @@
+package com.example.moviessku
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
